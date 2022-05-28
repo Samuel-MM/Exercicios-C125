@@ -17,5 +17,6 @@ public class Main {
         gerenciador.addProjeto(projeto4);
 
         gerenciador.listaProjetos();
+        System.out.println("Fim da execução");
     }
 }
